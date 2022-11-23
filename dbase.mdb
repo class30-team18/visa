@@ -1,0 +1,4 @@
+!#/bin/bash
+#This file contains data
+#ensure command line arguments are used to run file
+#open is save mode
